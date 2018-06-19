@@ -19,15 +19,14 @@ permalink: /about/
 ---
 
 勉強用にGithubを使っています。  
-このサイトはJekyllで作りました。
+このサイトはJekyllで作りました。  
 <!--github is used as Learning.-->
-<br>
-<br>
-<br>
-## __About Me__
-### 資格<!--：Qualification -->
-- 応用情報技術者試験 <!--Applied Information Technology Engineer Examination-->
 
+{{ site.line_long }}
+<br>
+
+## __About Me__
+{{ site.line_middle }}
 ### 言語<!--：Skills-->
 - 最近<!--：Recently Studying-->
     - Javascript(Node.js)
@@ -35,6 +34,7 @@ permalink: /about/
     - CSS3
     - Java
     - Ruby on Rails
+
 - 昔<!--：Past Studied-->
     - C
     - HTML
@@ -42,22 +42,27 @@ permalink: /about/
     - Perl
     - Visual Basic
 
+{{ site.line_short }}
+### 資格<!--：Qualification -->
+- 応用情報技術者試験 <!--Applied Information Technology Engineer Examination-->
+
+{{ site.line_short }}
 ### 趣味<!--：like-->
-#### ゲーム
-- RPG
-    - TES:Skyrim,MGS
-- FPS
-    - AVA,ガンダムオンライン,Cod,MoH,Battlefield 1
-- ドイツゲーム
-    - blocks,カタン他
+- ゲーム
+    - RPG
+        - TES:Skyrim,MGS
+    - FPS
+        - AVA,ガンダムオンライン,Cod,MoH,Battlefield 1
+    - ドイツゲーム
+        - blocks,カタン他
 
-#### 食べ物とか
-- からあげ
-- 紅茶,コーヒー
-- 星見
-- 喫茶店
+- 食べ物とか
+    - からあげ
+    - 紅茶,コーヒー
+    - 星見
+    - 喫茶店
 
-
+{{ site.line_short }}
 
 
 <!--
