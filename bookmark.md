@@ -9,4 +9,4 @@ permalink: /bookmark/
 - [侍エンジニア](https://www.sejuku.net/)
 - [N予備校](https://www.nnn.ed.nico/pages/programming/)
 
-{{ site.line_middle }}
+{{ site.line_long }}

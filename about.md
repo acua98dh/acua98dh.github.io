@@ -2,37 +2,14 @@
 layout: page
 title: About
 permalink: /about/
-
-
-# This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-# 
-# You can find the source code for Minima at GitHub:
-# [jekyll][jekyll-organization] /
-# [minima](https://github.com/jekyll/minima)
-# 
-# You can find the source code for Jekyll at GitHub:
-# [jekyll][jekyll-organization] /
-# [jekyll](https://github.com/jekyll/jekyll)
-# 
-# 
-# [jekyll-organization]: https://github.com/jekyll
 ---
 
-勉強用にGithubを使っています。  
-このサイトはJekyllで作りました。  
-<!--github is used as Learning.-->
-
-{{ site.line_long }}
-<br>
-
-## __About Me__
 {{ site.line_middle }}
 ### 言語<!--：Skills-->
 - 最近<!--：Recently Studying-->
     - Javascript(Node.js)
     - HTML5
     - CSS3
-    - Java
     - Ruby on Rails
 
 - 昔<!--：Past Studied-->
@@ -41,6 +18,7 @@ permalink: /about/
     - Java Applet
     - Perl
     - Visual Basic
+    - Java アプレット,アプリケーション
 
 {{ site.line_short }}
 ### 資格<!--：Qualification -->
@@ -55,6 +33,9 @@ permalink: /about/
         - AVA,ガンダムオンライン,Cod,MoH,Battlefield 1
     - ドイツゲーム
         - blocks,カタン他
+    - Steam
+        - 雰囲気系やウォーキングシュミレーターとか
+            - DearEsther,EternalWinter,Event[0],Firewatch,LifelessPlanet他
 
 - 食べ物とか
     - からあげ
@@ -62,7 +43,7 @@ permalink: /about/
     - 星見
     - 喫茶店
 
-{{ site.line_short }}
+{{ site.line_long }}
 
 
 <!--
